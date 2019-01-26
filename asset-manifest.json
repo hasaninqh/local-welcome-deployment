@@ -1,0 +1,15 @@
+{
+  "main.css": "/local-welcome-deployment/static/css/main.66e82835.chunk.css",
+  "main.js": "/local-welcome-deployment/static/js/main.57fa1c3a.chunk.js",
+  "main.js.map": "/local-welcome-deployment/static/js/main.57fa1c3a.chunk.js.map",
+  "static/css/1.83016bab.chunk.css": "/local-welcome-deployment/static/css/1.83016bab.chunk.css",
+  "static/js/1.3bb49a1c.chunk.js": "/local-welcome-deployment/static/js/1.3bb49a1c.chunk.js",
+  "static/js/1.3bb49a1c.chunk.js.map": "/local-welcome-deployment/static/js/1.3bb49a1c.chunk.js.map",
+  "runtime~main.js": "/local-welcome-deployment/static/js/runtime~main.34b09b46.js",
+  "runtime~main.js.map": "/local-welcome-deployment/static/js/runtime~main.34b09b46.js.map",
+  "static/css/1.83016bab.chunk.css.map": "/local-welcome-deployment/static/css/1.83016bab.chunk.css.map",
+  "static/css/main.66e82835.chunk.css.map": "/local-welcome-deployment/static/css/main.66e82835.chunk.css.map",
+  "index.html": "/local-welcome-deployment/index.html",
+  "precache-manifest.e31a68395ed5b3302386814307a50d2a.js": "/local-welcome-deployment/precache-manifest.e31a68395ed5b3302386814307a50d2a.js",
+  "service-worker.js": "/local-welcome-deployment/service-worker.js"
+}
