@@ -1,0 +1,37 @@
+[
+  { "id": 1,
+    "altText": " Step 1: Peel and grate a large potato into the metal bowl.",
+    "caption": "Question:1 What is your favourite memory of the place you were born?"
+
+  },
+  {  "id": 2,
+    "altText": "Step 2: Peel and grate an onion into the same bowl.",
+    "caption": "Question 2: What was your favourite meal ever, and why?"
+  },
+  { "id": 3,
+    "altText": "Step 3: Squeeze the mixture in your hands to remove as much moisture as possible, placing the dry mixture in the blue plastic grater bowl. Switch on the griddle with caution.",
+    "caption": "Question 3: What was the best thing that happened to you in the last week?"
+  },
+  { "id": 4,
+    "altText": "Step 4: Return the dry mixture to the metal mixing bowl, then mix in 2 tablespoons of flour and 1 egg. Season with salt, pepper or herbs",
+    "caption": "Question 4: What are you are looking forward to next week?"
+  },
+  { "id": 5,
+    "altText": "Step 5: (Add 2 tbsp oil to the hot griddle and divide the mixture into equal portions.)",
+    "caption": "Question 5: What are your strengths now, and is there one strength or skill you'd like to develop in the next year?"
+  },
+  {  "id": 6,
+    "altText": "Step 6: (Place one portion of grated potato on the hot griddle, and press down gently using the back of a spatula. Fry the rostis for 3-4 minutes on both sides. However, please don't use metal cutlery, it scratches the griddle.",
+    "caption": "Question 6: In the next month, how will you use your strengths and start learning a new skill?"
+    
+  }, 
+  {  "id": 7,
+    "altText": "Step 7: Slice an avocado in half, take out the seed, and cut the 2 halves into slices. Then turn over the rostis and cook the other side for about 10 mins. After 5 mins you can turn off the head and put on the lid. While we wait, please can one pair clean the table while the rest of us wash and dry the kit to go back in the box for next time. Thanks!",
+
+    "caption": "Question 7: In the next 2 weeks, would you like any help or encouragement using your strengths to develop new skills?"
+  }, 
+  { "id": 8,
+    "altText": "Final Step: When everything is cleaned up and back in the box, you're ready to enjoy your meal / ride your bike etc).",
+    "caption": "Thanks for leading the table assigned to you!"
+  }
+]

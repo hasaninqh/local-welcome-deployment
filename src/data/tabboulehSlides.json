@@ -1,0 +1,37 @@
+[
+  { "id": 1,
+    "altText": " Step 1: Mix half a cup of bulgar wheat, 1 tablespoon of oil and 1 cup of hot water into a small bowl.",
+    "caption": "Question 1: What is your favourite memory of the place you were born?"
+
+  },
+  { "id": 2,
+    "altText": "Step 2: Chop fresh flat-leaf parsley into fine pieces, put to one side",
+    "caption": "Question 2: What was your favourite meal ever, and why?"
+  },
+  { "id": 3,
+    "altText": "Step 3: Chop fresh flat-leaf mint into fine pieces, put to one side.",
+    "caption": "Question 3: What was the best thing that happened to you in the last week?"
+  },
+  { "id": 4,
+    "altText": "Step 4: Chop tomato into fine pieces, put to one side.",
+    "caption": "Question 4: What are you are looking forward to next week?"
+  },
+  { "id": 5,
+    "altText": "Step 5: Squeeze the lemon juice into the bulgar wheat and add the other chopped ingredients.",
+    "caption": "Question 5: What are your strengths now, and is there one strength or skill you'd like to develop in the next year?"
+  },
+  {  "id":6,
+    "altText": "Step 6: Cover your plates with lettuce leaves.",
+    "caption": "Question 6: In the next month, how will you use your strengths and start learning a new skill?"
+    
+  }, 
+  { "id": 7,
+    "altText": "Step 7: Slice an avocado in half, take out the seed, and cut the 2 halves into slices. Then turn over the rostis and cook the other side for about 10 mins. After 5 mins you can turn off the head and put on the lid. While we wait, please can one pair clean the table while the rest of us wash and dry the kit to go back in the box for next time. Thanks!",
+
+    "caption": "Question 7: In the next 2 weeks, would you like any help or encouragement using your strengths to develop new skills?"
+  }, 
+  { "id": 8,
+    "altText": "Step 7: Cover the lettuce leaves with the Tabbouleh and take the plates into the next room to share!",
+    "caption": "Thanks for leading the table assigned to you!"
+  }
+]
